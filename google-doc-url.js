@@ -1,0 +1,2 @@
+var googleDocURL = "https://docs.google.com/spreadsheets/d/132SaKuLRdHcwEKhhQVOKd2_3j30nFvQbTgplh4nPZOg/edit#gid=0";
+var googleApiKey = "AIzaSyASD6-G5DbQt5NyfWEtL1RKBPdSFhesep0";
